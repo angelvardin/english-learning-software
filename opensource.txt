@@ -1,0 +1,5 @@
+This software is based on The tutorial is published at RayWenderlich.com and consist of 3 parts.
+You can find them here: 
+Part 1 - https://www.raywenderlich.com/5458-how-to-make-a-game-like-jetpack-joyride-in-unity-2d-part-1
+Part 2 - https://www.raywenderlich.com/5459-how-to-make-a-game-like-jetpack-joyride-in-unity-2d-part-2
+Part 3 - https://www.raywenderlich.com/5460-how-to-make-a-game-like-jetpack-joyride-in-unity-2d-part-3
